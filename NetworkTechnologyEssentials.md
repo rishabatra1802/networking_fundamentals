@@ -1,7 +1,5 @@
 # Network Technology Essentials: The Complete Guide
 
-![Network Infrastructure Banner](https://via.placeholder.com/1200x400/2c3e50/ffffff?text=Network+Technology+Essentials)
-
 ## Table of Contents
 1. [Internet Ownership Structure](#internet-ownership-structure)
 2. [Internet Connection Technologies](#internet-connection-technologies)
@@ -20,7 +18,6 @@
 
 ## Internet Ownership Structure
 
-![Internet Ownership Map](https://via.placeholder.com/800x400/3498db/ffffff?text=Decentralized+Internet+Structure)
 
 The Internet is fundamentally a **network of networks** with no single owner. This decentralized architecture consists of:
 
@@ -47,9 +44,6 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 
 ## Internet Connection Technologies
 
-### Phone Modems (Dial-up)
-![Dial-up Modem](https://via.placeholder.com/400x300/ccc/000?text=56K+Modem)
-
 **Technical Specification**:
 - Modulation: V.90/V.92 standards
 - Frequency: 300-3400Hz (voice band)
@@ -65,9 +59,6 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 - Entire bandwidth used for upstream or downstream (half-duplex)
 - Susceptible to line noise
 - 6MHz cable bandwidth vs. 3.4kHz phone line
-
-### DSL (Digital Subscriber Line)
-![DSL Infrastructure](https://via.placeholder.com/600x300/3498db/ffffff?text=DSL+Network+Diagram)
 
 **Technical Deep Dive**:
 - Uses DMT (Discrete Multi-Tone) modulation
@@ -91,7 +82,6 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 - Splitter/filter at customer premises
 
 ### Cable Modems
-![Cable Network](https://via.placeholder.com/600x300/e74c3c/ffffff?text=Cable+Network+Topology)
 
 **DOCSIS Standards Evolution**:
 - DOCSIS 1.0 (1997): 40 Mbps down, 10 Mbps up
@@ -110,7 +100,6 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 ## Network Devices Deep Dive
 
 ### Hubs and Repeaters
-![Hub vs Repeater](https://via.placeholder.com/500x300/2c3e50/ffffff?text=Hub+vs+Repeater)
 
 **Layer 1 Devices**:
 - **Hub**:
@@ -132,7 +121,6 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
   - 3 populated segments
 
 ### Modems
-![Modem Types](https://via.placeholder.com/600x300/3498db/ffffff?text=Modem+Comparison)
 
 **Modulation Techniques**:
 - **QAM**: Combines amplitude and phase modulation
@@ -151,7 +139,6 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 4. 1998: V.90 (56 Kbps)
 
 ### Bridges
-![Bridge Operation](https://via.placeholder.com/500x400/2c3e50/ffffff?text=Bridge+Operation)
 
 **Key Functions**:
 - **MAC Learning**:
@@ -176,7 +163,6 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 - Latency: < 50 microseconds
 
 ### Switches
-![Switch Architecture](https://via.placeholder.com/600x400/e74c3c/ffffff?text=Switch+Internal+Architecture)
 
 **Switch Fabric Types**:
 - **Store-and-Forward**:
@@ -201,7 +187,7 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 - MAC table size: 64K+ entries
 
 ### Routers
-![Router Components](https://via.placeholder.com/600x400/3498db/ffffff?text=Router+Components)
+
 
 **Routing Process**:
 1. Packet arrives at ingress interface
@@ -222,9 +208,6 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 - **Branch Routers**: Enterprise remote sites
 
 ### Gateways
-![Gateway Functions](https://via.placeholder.com/500x300/2c3e50/ffffff?text=Gateway+Protocol+Conversion)
-
-**Protocol Translation Examples**:
 1. **Email Gateway**:
    - Converts between SMTP and proprietary formats
    - Microsoft Exchange ↔ Internet SMTP
@@ -243,7 +226,7 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 - Session capacity: 50K+ concurrent
 
 ### Wireless Access Points
-![WAP Architecture](https://via.placeholder.com/600x400/e74c3c/ffffff?text=WAP+Network+Design)
+!
 
 **802.11 Standards Evolution**:
 
@@ -264,8 +247,6 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 ---
 
 ## Internet Backbone Architecture
-
-![Internet Backbone](https://via.placeholder.com/1000x500/3498db/ffffff?text=Global+Internet+Backbone)
 
 **Tier 1 Providers**:
 - AT&T (AS7018)
@@ -291,8 +272,6 @@ The Internet is fundamentally a **network of networks** with no single owner. Th
 ---
 
 ## ISP Hierarchy
-
-![ISP Structure](https://via.placeholder.com/800x400/2c3e50/ffffff?text=ISP+Tier+Structure)
 
 **Tier Classification**:
 
