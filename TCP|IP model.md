@@ -1,4 +1,4 @@
-# 🌐 TCP/IP Model 
+# 🌐 TCP/IP Mod
 
 ##  Introduction
 
